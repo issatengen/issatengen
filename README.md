@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @issatengen
+- 👋 Hi, I’m Issa Tengen
 - 👀 I’m interested in Web development(HTML,CSS3,JavaScript,Bootstrap,PHP,MySQL)
 - 🌱 I’m currently working on @LogixOne
 - 💞️ I’m looking to collaborate on Web development projects
